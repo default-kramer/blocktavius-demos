@@ -1,0 +1,91 @@
+{
+  "ProfileVerificationHash": "SwsLltjL\u002B/NQCgJQGj9kgJhDXTrXlTXHz7cI/fgxuII=",
+  "SourceSlot": {
+    "SlotNumber": 3,
+    "SlotName": "Slot 3 (B02)"
+  },
+  "DestSlot": {
+    "SlotNumber": 1,
+    "SlotName": "Slot 1 (B00)"
+  },
+  "SourceStgdatFilename": "STGDAT01.BIN",
+  "ChunkExpansion": [
+    {
+      "OffsetX": 10,
+      "OffsetZ": 14
+    },
+    {
+      "OffsetX": 31,
+      "OffsetZ": 14
+    },
+    {
+      "OffsetX": 31,
+      "OffsetZ": 15
+    },
+    {
+      "OffsetX": 31,
+      "OffsetZ": 16
+    },
+    {
+      "OffsetX": 31,
+      "OffsetZ": 17
+    },
+    {
+      "OffsetX": 31,
+      "OffsetZ": 18
+    },
+    {
+      "OffsetX": 31,
+      "OffsetZ": 19
+    },
+    {
+      "OffsetX": 31,
+      "OffsetZ": 20
+    },
+    {
+      "OffsetX": 31,
+      "OffsetZ": 21
+    },
+    {
+      "OffsetX": 31,
+      "OffsetZ": 22
+    }
+  ],
+  "Notes": "my demo project!",
+  "Images": [
+    {
+      "RelativePath": "hill.bmp",
+      "IsVisible": false
+    },
+    {
+      "RelativePath": "fill.bmp",
+      "IsVisible": false
+    },
+    {
+      "RelativePath": "export\\test.png",
+      "IsVisible": true
+    }
+  ],
+  "MinimapVisible": true,
+  "ChunkGridVisible": true,
+  "Scripts": [
+    {
+      "ScriptName": "Main",
+      "ScriptNodes": [
+        {
+          "$type": "PutGround-3656",
+          "Scale": 23,
+          "YMin": 55,
+          "YRange": 1,
+          "AreaPersistId": "IMG:export\\test.png",
+          "BlockPersistId": "BLK:14"
+        }
+      ]
+    },
+    {
+      "ScriptName": "Script 2",
+      "ScriptNodes": []
+    }
+  ],
+  "SelectedScriptIndex": 0
+}
