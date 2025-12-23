@@ -64,6 +64,22 @@
     {
       "RelativePath": "export\\test.png",
       "IsVisible": true
+    },
+    {
+      "RelativePath": "export\\CS_Mountains\\floor.png",
+      "IsVisible": true
+    },
+    {
+      "RelativePath": "export\\CS_Mountains\\Paint_Layer_2.png",
+      "IsVisible": true
+    },
+    {
+      "RelativePath": "export\\CS_Mountains\\Paint_Layer_1.png",
+      "IsVisible": true
+    },
+    {
+      "RelativePath": "export\\CS_Mountains\\Mtn_W.png",
+      "IsVisible": true
     }
   ],
   "MinimapVisible": true,
@@ -75,16 +91,58 @@
         {
           "$type": "PutGround-3656",
           "Scale": 23,
-          "YMin": 55,
+          "YMin": 51,
           "YRange": 1,
-          "AreaPersistId": "IMG:export\\test.png",
-          "BlockPersistId": "BLK:14"
+          "AreaPersistId": "IMG:export\\CS_Mountains\\floor.png",
+          "BlockPersistId": "BLK:19"
+        },
+        {
+          "$type": "PutHill-4481",
+          "Elevation": 75,
+          "HillDesigner": {
+            "$type": "WinsomeHill-4380",
+            "Steepness": 2
+          },
+          "AreaPersistId": "IMG:export\\CS_Mountains\\Paint_Layer_2.png",
+          "BlockPersistId": "BLK:149",
+          "LockRandomSeed": false
+        },
+        {
+          "$type": "PutHill-4481",
+          "Elevation": 93,
+          "HillDesigner": {
+            "$type": "WinsomeHill-4380",
+            "Steepness": 2
+          },
+          "AreaPersistId": "IMG:export\\CS_Mountains\\Paint_Layer_1.png",
+          "BlockPersistId": "BLK:19",
+          "LockRandomSeed": false
+        },
+        {
+          "$type": "PutHill-4481",
+          "Elevation": 51,
+          "HillDesigner": {
+            "$type": "WinsomeHill-4380",
+            "Steepness": 1
+          },
+          "AreaPersistId": "IMG:export\\CS_Mountains\\Mtn_W.png",
+          "BlockPersistId": "BLK:149",
+          "LockRandomSeed": false
         }
       ]
     },
     {
       "ScriptName": "Script 2",
-      "ScriptNodes": []
+      "ScriptNodes": [
+        {
+          "$type": "PutGround-3656",
+          "Scale": 23,
+          "YMin": 18,
+          "YRange": 1,
+          "AreaPersistId": "IMG:export\\test.png",
+          "BlockPersistId": "BLK:14"
+        }
+      ]
     }
   ],
   "SelectedScriptIndex": 0
