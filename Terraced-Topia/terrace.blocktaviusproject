@@ -1,0 +1,1189 @@
+{
+  "ProfileVerificationHash": "SwsLltjL\u002B/NQCgJQGj9kgJhDXTrXlTXHz7cI/fgxuII=",
+  "SourceSlot": {
+    "SlotNumber": 3,
+    "SlotName": "Slot 3 (B02)"
+  },
+  "DestSlot": {
+    "SlotNumber": 1,
+    "SlotName": "Slot 1 (B00)"
+  },
+  "SourceStgdatFilename": "STGDAT16.BIN",
+  "ChunkExpansion": [
+    {
+      "OffsetX": 23,
+      "OffsetZ": 23
+    },
+    {
+      "OffsetX": 27,
+      "OffsetZ": 38
+    },
+    {
+      "OffsetX": 28,
+      "OffsetZ": 38
+    },
+    {
+      "OffsetX": 29,
+      "OffsetZ": 38
+    },
+    {
+      "OffsetX": 30,
+      "OffsetZ": 38
+    },
+    {
+      "OffsetX": 31,
+      "OffsetZ": 38
+    },
+    {
+      "OffsetX": 32,
+      "OffsetZ": 38
+    },
+    {
+      "OffsetX": 33,
+      "OffsetZ": 38
+    },
+    {
+      "OffsetX": 34,
+      "OffsetZ": 38
+    },
+    {
+      "OffsetX": 35,
+      "OffsetZ": 38
+    },
+    {
+      "OffsetX": 36,
+      "OffsetZ": 38
+    },
+    {
+      "OffsetX": 37,
+      "OffsetZ": 38
+    },
+    {
+      "OffsetX": 29,
+      "OffsetZ": 39
+    },
+    {
+      "OffsetX": 30,
+      "OffsetZ": 39
+    },
+    {
+      "OffsetX": 31,
+      "OffsetZ": 39
+    },
+    {
+      "OffsetX": 32,
+      "OffsetZ": 39
+    },
+    {
+      "OffsetX": 33,
+      "OffsetZ": 39
+    },
+    {
+      "OffsetX": 34,
+      "OffsetZ": 39
+    },
+    {
+      "OffsetX": 35,
+      "OffsetZ": 39
+    },
+    {
+      "OffsetX": 36,
+      "OffsetZ": 39
+    },
+    {
+      "OffsetX": 37,
+      "OffsetZ": 39
+    },
+    {
+      "OffsetX": 29,
+      "OffsetZ": 40
+    },
+    {
+      "OffsetX": 30,
+      "OffsetZ": 40
+    },
+    {
+      "OffsetX": 31,
+      "OffsetZ": 40
+    },
+    {
+      "OffsetX": 32,
+      "OffsetZ": 40
+    },
+    {
+      "OffsetX": 33,
+      "OffsetZ": 40
+    },
+    {
+      "OffsetX": 34,
+      "OffsetZ": 40
+    },
+    {
+      "OffsetX": 35,
+      "OffsetZ": 40
+    },
+    {
+      "OffsetX": 36,
+      "OffsetZ": 40
+    },
+    {
+      "OffsetX": 37,
+      "OffsetZ": 40
+    }
+  ],
+  "Notes": "",
+  "Images": [
+    {
+      "RelativePath": "export\\plateaus\\p4.png",
+      "IsVisible": false
+    },
+    {
+      "RelativePath": "export\\plateaus\\p3.png",
+      "IsVisible": false
+    },
+    {
+      "RelativePath": "export\\plateaus\\p2.png",
+      "IsVisible": false
+    },
+    {
+      "RelativePath": "export\\plateaus\\p1.png",
+      "IsVisible": false
+    },
+    {
+      "RelativePath": "export\\plat2\\3.png",
+      "IsVisible": false
+    },
+    {
+      "RelativePath": "export\\plat2\\2.png",
+      "IsVisible": false
+    },
+    {
+      "RelativePath": "export\\plat2\\1.png",
+      "IsVisible": false
+    },
+    {
+      "RelativePath": "export\\plat2\\peak.png",
+      "IsVisible": false
+    },
+    {
+      "RelativePath": "export\\BUILD.png",
+      "IsVisible": false
+    },
+    {
+      "RelativePath": "export\\take3\\p40.png",
+      "IsVisible": false
+    },
+    {
+      "RelativePath": "export\\take3\\p30.png",
+      "IsVisible": false
+    },
+    {
+      "RelativePath": "export\\take3\\p20.png",
+      "IsVisible": false
+    },
+    {
+      "RelativePath": "export\\take3\\p10.png",
+      "IsVisible": false
+    },
+    {
+      "RelativePath": "export\\take3\\Approach.png",
+      "IsVisible": false
+    },
+    {
+      "RelativePath": "export\\take3\\Peak.png",
+      "IsVisible": false
+    },
+    {
+      "RelativePath": "export\\135x167.png",
+      "IsVisible": false
+    },
+    {
+      "RelativePath": "export\\agrop1\\sw-border.png",
+      "IsVisible": false
+    },
+    {
+      "RelativePath": "export\\agrop1\\sw1.png",
+      "IsVisible": false
+    },
+    {
+      "RelativePath": "export\\agrop1\\sw2.png",
+      "IsVisible": false
+    },
+    {
+      "RelativePath": "export\\agrop1\\sw3.png",
+      "IsVisible": false
+    },
+    {
+      "RelativePath": "export\\dock\\beach.png",
+      "IsVisible": false
+    },
+    {
+      "RelativePath": "export\\dock\\cliff.png",
+      "IsVisible": false
+    },
+    {
+      "RelativePath": "export\\NW_cliff\\main.png",
+      "IsVisible": true
+    },
+    {
+      "RelativePath": "export\\NW_cliff\\East.png",
+      "IsVisible": true
+    },
+    {
+      "RelativePath": "export\\Welcome\\1.png",
+      "IsVisible": true
+    },
+    {
+      "RelativePath": "export\\Welcome\\2.png",
+      "IsVisible": true
+    },
+    {
+      "RelativePath": "export\\Welcome\\3.png",
+      "IsVisible": true
+    }
+  ],
+  "MinimapVisible": true,
+  "ChunkGridVisible": true,
+  "Scripts": [
+    {
+      "ScriptName": "Terrace 1",
+      "ScriptNodes": null,
+      "ScriptNodes2": [
+        {
+          "ScriptNode": {
+            "$type": "PutHill-4481",
+            "Elevation": 74,
+            "HillDesigner": {
+              "$type": "WinsomeHill-4380",
+              "Steepness": 2
+            },
+            "AreaPersistId": "IMG:export\\plateaus\\p1.png",
+            "BlockPersistId": "BLK:12",
+            "LockRandomSeed": false
+          },
+          "Enabled": true
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutHill-4481",
+            "Elevation": 58,
+            "HillDesigner": {
+              "$type": "WinsomeHill-4380",
+              "Steepness": 2
+            },
+            "AreaPersistId": "IMG:export\\plateaus\\p2.png",
+            "BlockPersistId": "BLK:12",
+            "LockRandomSeed": false
+          },
+          "Enabled": true
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutHill-4481",
+            "Elevation": 42,
+            "HillDesigner": {
+              "$type": "WinsomeHill-4380",
+              "Steepness": 2
+            },
+            "AreaPersistId": "IMG:export\\plateaus\\p3.png",
+            "BlockPersistId": "BLK:12",
+            "LockRandomSeed": false
+          },
+          "Enabled": true
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutHill-4481",
+            "Elevation": 30,
+            "HillDesigner": {
+              "$type": "WinsomeHill-4380",
+              "Steepness": 2
+            },
+            "AreaPersistId": "IMG:export\\plateaus\\p4.png",
+            "BlockPersistId": "BLK:12",
+            "LockRandomSeed": false
+          },
+          "Enabled": true
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutGround-3656",
+            "Scale": 23,
+            "YMin": 74,
+            "YRange": 1,
+            "YFloor": 1,
+            "AreaPersistId": "IMG:export\\plateaus\\p1.png",
+            "BlockPersistId": "BLK:3",
+            "CustomRectArea": null
+          },
+          "Enabled": true
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutGround-3656",
+            "Scale": 23,
+            "YMin": 58,
+            "YRange": 1,
+            "YFloor": 1,
+            "AreaPersistId": "IMG:export\\plateaus\\p2.png",
+            "BlockPersistId": "BLK:3",
+            "CustomRectArea": null
+          },
+          "Enabled": true
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutGround-3656",
+            "Scale": 23,
+            "YMin": 42,
+            "YRange": 1,
+            "YFloor": 1,
+            "AreaPersistId": "IMG:export\\plateaus\\p3.png",
+            "BlockPersistId": "BLK:3",
+            "CustomRectArea": null
+          },
+          "Enabled": true
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutGround-3656",
+            "Scale": 23,
+            "YMin": 30,
+            "YRange": 1,
+            "YFloor": 1,
+            "AreaPersistId": "IMG:export\\plateaus\\p4.png",
+            "BlockPersistId": "BLK:3",
+            "CustomRectArea": null
+          },
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "ScriptName": "Terrace alt",
+      "ScriptNodes": null,
+      "ScriptNodes2": [
+        {
+          "ScriptNode": {
+            "$type": "PutHill-4481",
+            "Elevation": 80,
+            "HillDesigner": {
+              "$type": "PlainHill-7791",
+              "Steepness": 3,
+              "CornerType": 1
+            },
+            "AreaPersistId": "IMG:export\\plat2\\peak.png",
+            "BlockPersistId": "BLK:3",
+            "LockRandomSeed": false
+          },
+          "Enabled": true
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutHill-4481",
+            "Elevation": 65,
+            "HillDesigner": {
+              "$type": "PlainHill-7791",
+              "Steepness": 3,
+              "CornerType": 1
+            },
+            "AreaPersistId": "IMG:export\\plat2\\1.png",
+            "BlockPersistId": "BLK:3",
+            "LockRandomSeed": false
+          },
+          "Enabled": true
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutHill-4481",
+            "Elevation": 50,
+            "HillDesigner": {
+              "$type": "PlainHill-7791",
+              "Steepness": 3,
+              "CornerType": 1
+            },
+            "AreaPersistId": "IMG:export\\plat2\\2.png",
+            "BlockPersistId": "BLK:3",
+            "LockRandomSeed": false
+          },
+          "Enabled": true
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutHill-4481",
+            "Elevation": 35,
+            "HillDesigner": {
+              "$type": "PlainHill-7791",
+              "Steepness": 3,
+              "CornerType": 1
+            },
+            "AreaPersistId": "IMG:export\\plat2\\3.png",
+            "BlockPersistId": "BLK:3",
+            "LockRandomSeed": false
+          },
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "ScriptName": "Temp Platform",
+      "ScriptNodes": null,
+      "ScriptNodes2": [
+        {
+          "ScriptNode": {
+            "$type": "PutGround-3656",
+            "Scale": 23,
+            "YMin": 80,
+            "YRange": 1,
+            "YFloor": 1,
+            "AreaPersistId": "IMG:export\\BUILD.png",
+            "BlockPersistId": "BLK:3",
+            "CustomRectArea": null
+          },
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "ScriptName": "Script 4",
+      "ScriptNodes": null,
+      "ScriptNodes2": [
+        {
+          "ScriptNode": {
+            "$type": "PutHill-4481",
+            "Elevation": 22,
+            "HillDesigner": {
+              "$type": "CornerPusherHill-4527",
+              "MaxConsecutiveMisses": 11
+            },
+            "AreaPersistId": "IMG:export\\take3\\p40.png",
+            "BlockPersistId": "BLK:131",
+            "LockRandomSeed": false
+          },
+          "Enabled": true
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutHill-4481",
+            "Elevation": 30,
+            "HillDesigner": {
+              "$type": "CornerPusherHill-4527",
+              "MaxConsecutiveMisses": 11
+            },
+            "AreaPersistId": "IMG:export\\take3\\p30.png",
+            "BlockPersistId": "BLK:12",
+            "LockRandomSeed": false
+          },
+          "Enabled": true
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutHill-4481",
+            "Elevation": 44,
+            "HillDesigner": {
+              "$type": "CornerPusherHill-4527",
+              "MaxConsecutiveMisses": 11
+            },
+            "AreaPersistId": "IMG:export\\take3\\p20.png",
+            "BlockPersistId": "BLK:131",
+            "LockRandomSeed": false
+          },
+          "Enabled": true
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutHill-4481",
+            "Elevation": 52,
+            "HillDesigner": {
+              "$type": "CornerPusherHill-4527",
+              "MaxConsecutiveMisses": 11
+            },
+            "AreaPersistId": "IMG:export\\take3\\p10.png",
+            "BlockPersistId": "BLK:12",
+            "LockRandomSeed": false
+          },
+          "Enabled": true
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutHill-4481",
+            "Elevation": 63,
+            "HillDesigner": {
+              "$type": "CornerPusherHill-4527",
+              "MaxConsecutiveMisses": 11
+            },
+            "AreaPersistId": "IMG:export\\take3\\Approach.png",
+            "BlockPersistId": "BLK:3",
+            "LockRandomSeed": false
+          },
+          "Enabled": true
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutHill-4481",
+            "Elevation": 80,
+            "HillDesigner": {
+              "$type": "CornerPusherHill-4527",
+              "MaxConsecutiveMisses": 11
+            },
+            "AreaPersistId": "IMG:export\\take3\\Peak.png",
+            "BlockPersistId": "BLK:131",
+            "LockRandomSeed": false
+          },
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "ScriptName": "Platform Cleanup 2026-01-11",
+      "ScriptNodes": null,
+      "ScriptNodes2": [
+        {
+          "ScriptNode": {
+            "$type": "PutGround-3656",
+            "Scale": 23,
+            "YMin": 80,
+            "YRange": 1,
+            "YFloor": 50,
+            "AreaPersistId": null,
+            "BlockPersistId": "BLK:0",
+            "CustomRectArea": {
+              "X0": 1077,
+              "Z0": 1096,
+              "X1": 1135,
+              "Z1": 1050
+            }
+          },
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "ScriptName": "Script 6",
+      "ScriptNodes": null,
+      "ScriptNodes2": [
+        {
+          "ScriptNode": {
+            "$type": "PutSnippet-7890",
+            "SnippetPersistentId": "1ae86710-89ea-402e-928a-4af552e0bf0d",
+            "Rotation": 270,
+            "NorthwestX": 1078,
+            "NorthwestZ": 1043,
+            "AdjustY": 67
+          },
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "ScriptName": "Corner Gull Test",
+      "ScriptNodes": null,
+      "ScriptNodes2": [
+        {
+          "ScriptNode": {
+            "$type": "PutGround-3656",
+            "Scale": 23,
+            "YMin": 15,
+            "YRange": 1,
+            "YFloor": 15,
+            "AreaPersistId": null,
+            "BlockPersistId": "BLK:14",
+            "CustomRectArea": {
+              "X0": 500,
+              "Z0": 500,
+              "X1": 1000,
+              "Z1": 1000
+            }
+          },
+          "Enabled": true
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutGround-3656",
+            "Scale": 23,
+            "YMin": 23,
+            "YRange": 1,
+            "YFloor": 23,
+            "AreaPersistId": null,
+            "BlockPersistId": "BLK:203",
+            "CustomRectArea": {
+              "X0": 500,
+              "Z0": 500,
+              "X1": 1000,
+              "Z1": 1000
+            }
+          },
+          "Enabled": true
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutGround-3656",
+            "Scale": 23,
+            "YMin": 16,
+            "YRange": 1,
+            "YFloor": 1,
+            "AreaPersistId": null,
+            "BlockPersistId": "BLK:420",
+            "CustomRectArea": {
+              "X0": 1086,
+              "Z0": 1006,
+              "X1": 1140,
+              "Z1": 1050
+            }
+          },
+          "Enabled": true
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutGround-3656",
+            "Scale": 23,
+            "YMin": 16,
+            "YRange": 1,
+            "YFloor": 1,
+            "AreaPersistId": null,
+            "BlockPersistId": "BLK:349",
+            "CustomRectArea": {
+              "X0": 1086,
+              "Z0": 1006,
+              "X1": 1140,
+              "Z1": 1050
+            }
+          },
+          "Enabled": true
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutGround-3656",
+            "Scale": 23,
+            "YMin": 20,
+            "YRange": 1,
+            "YFloor": 20,
+            "AreaPersistId": null,
+            "BlockPersistId": "BLK:203",
+            "CustomRectArea": {
+              "X0": 1086,
+              "Z0": 1006,
+              "X1": 1140,
+              "Z1": 1050
+            }
+          },
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "ScriptName": "Move Cantlin Garden",
+      "ScriptNodes": null,
+      "ScriptNodes2": [
+        {
+          "ScriptNode": {
+            "$type": "PutSnippet-7890",
+            "SnippetPersistentId": "3ce489c3-9224-4613-b90f-d6b4780f7df3",
+            "Rotation": 0,
+            "NorthwestX": 1170,
+            "NorthwestZ": 888,
+            "AdjustY": 20
+          },
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "ScriptName": "Base Sizing",
+      "ScriptNodes": null,
+      "ScriptNodes2": [
+        {
+          "ScriptNode": {
+            "$type": "PutHill-4481",
+            "Elevation": 80,
+            "HillDesigner": {
+              "$type": "AdamantHill-3708"
+            },
+            "AreaPersistId": "IMG:export\\135x167.png",
+            "BlockPersistId": "BLK:12",
+            "LockRandomSeed": false
+          },
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "ScriptName": "Terrain Layout",
+      "ScriptNodes": null,
+      "ScriptNodes2": [
+        {
+          "ScriptNode": {
+            "$type": "PutHill-4481",
+            "Elevation": 80,
+            "HillDesigner": {
+              "$type": "WinsomeHill-4380",
+              "Steepness": 6
+            },
+            "AreaPersistId": "IMG:export\\135x167.png",
+            "BlockPersistId": "BLK:131",
+            "LockRandomSeed": false
+          },
+          "Enabled": true
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutHill-4481",
+            "Elevation": 14,
+            "HillDesigner": {
+              "$type": "WinsomeHill-4380",
+              "Steepness": 3
+            },
+            "AreaPersistId": "IMG:export\\agrop1\\sw1.png",
+            "BlockPersistId": "BLK:3",
+            "LockRandomSeed": false
+          },
+          "Enabled": true
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutHill-4481",
+            "Elevation": 20,
+            "HillDesigner": {
+              "$type": "WinsomeHill-4380",
+              "Steepness": 3
+            },
+            "AreaPersistId": "IMG:export\\agrop1\\sw2.png",
+            "BlockPersistId": "BLK:3",
+            "LockRandomSeed": false
+          },
+          "Enabled": true
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutHill-4481",
+            "Elevation": 26,
+            "HillDesigner": {
+              "$type": "WinsomeHill-4380",
+              "Steepness": 3
+            },
+            "AreaPersistId": "IMG:export\\agrop1\\sw3.png",
+            "BlockPersistId": "BLK:3",
+            "LockRandomSeed": false
+          },
+          "Enabled": true
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutHill-4481",
+            "Elevation": 40,
+            "HillDesigner": {
+              "$type": "CornerPusherHill-4527",
+              "MaxConsecutiveMisses": 11
+            },
+            "AreaPersistId": "IMG:export\\agrop1\\sw-border.png",
+            "BlockPersistId": "BLK:12",
+            "LockRandomSeed": false
+          },
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "ScriptName": "base reposition",
+      "ScriptNodes": null,
+      "ScriptNodes2": [
+        {
+          "ScriptNode": {
+            "$type": "PutSnippet-7890",
+            "SnippetPersistentId": "5f7e2d04-9b84-420f-8e68-dff5f29d67da",
+            "Rotation": 0,
+            "NorthwestX": 928,
+            "NorthwestZ": 912,
+            "AdjustY": 60
+          },
+          "Enabled": true
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutSnippet-7890",
+            "SnippetPersistentId": "fa123608-8a9a-40ee-88f4-73bff9ff7efe",
+            "Rotation": 0,
+            "NorthwestX": 912,
+            "NorthwestZ": 949,
+            "AdjustY": 60
+          },
+          "Enabled": true
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutGround-3656",
+            "Scale": 23,
+            "YMin": 56,
+            "YRange": 1,
+            "YFloor": 56,
+            "AreaPersistId": null,
+            "BlockPersistId": "BLK:10",
+            "CustomRectArea": {
+              "X0": 896,
+              "Z0": 896,
+              "X1": 1000,
+              "Z1": 1040
+            }
+          },
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "ScriptName": "misc fill-in",
+      "ScriptNodes": null,
+      "ScriptNodes2": [
+        {
+          "ScriptNode": {
+            "$type": "PutGround-3656",
+            "Scale": 23,
+            "YMin": 80,
+            "YRange": 1,
+            "YFloor": 60,
+            "AreaPersistId": null,
+            "BlockPersistId": "BLK:3",
+            "CustomRectArea": {
+              "X0": 927,
+              "Z0": 965,
+              "X1": 938,
+              "Z1": 949
+            }
+          },
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "ScriptName": "dock",
+      "ScriptNodes": null,
+      "ScriptNodes2": [
+        {
+          "ScriptNode": {
+            "$type": "PutGround-3656",
+            "Scale": 23,
+            "YMin": 40,
+            "YRange": 1,
+            "YFloor": 1,
+            "AreaPersistId": null,
+            "BlockPersistId": "BLK:0",
+            "CustomRectArea": {
+              "X0": 875,
+              "Z0": 1264,
+              "X1": 885,
+              "Z1": 1275
+            }
+          },
+          "Enabled": true
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutGround-3656",
+            "Scale": 23,
+            "YMin": 13,
+            "YRange": 1,
+            "YFloor": 0,
+            "AreaPersistId": "IMG:export\\dock\\beach.png",
+            "BlockPersistId": "BLK:130",
+            "CustomRectArea": null
+          },
+          "Enabled": true
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutHill-4481",
+            "Elevation": 17,
+            "HillDesigner": {
+              "$type": "CornerPusherHill-4527",
+              "MaxConsecutiveMisses": 11
+            },
+            "AreaPersistId": "IMG:export\\dock\\cliff.png",
+            "BlockPersistId": "BLK:131",
+            "LockRandomSeed": false
+          },
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "ScriptName": "old base cleanup",
+      "ScriptNodes": null,
+      "ScriptNodes2": [
+        {
+          "ScriptNode": {
+            "$type": "PutGround-3656",
+            "Scale": 23,
+            "YMin": 95,
+            "YRange": 1,
+            "YFloor": 15,
+            "AreaPersistId": null,
+            "BlockPersistId": "BLK:0",
+            "CustomRectArea": {
+              "X0": 1140,
+              "Z0": 1165,
+              "X1": 965,
+              "Z1": 1030
+            }
+          },
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "ScriptName": "Script 15",
+      "ScriptNodes": null,
+      "ScriptNodes2": [
+        {
+          "ScriptNode": {
+            "$type": "PutGround-3656",
+            "Scale": 23,
+            "YMin": 1,
+            "YRange": 1,
+            "YFloor": 1,
+            "AreaPersistId": null,
+            "BlockPersistId": "BLK:13",
+            "CustomRectArea": {
+              "X0": 840,
+              "Z0": 1200,
+              "X1": 2000,
+              "Z1": 2000
+            }
+          },
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "ScriptName": "NW cliff",
+      "ScriptNodes": null,
+      "ScriptNodes2": [
+        {
+          "ScriptNode": {
+            "$type": "PutHill-4481",
+            "Elevation": 80,
+            "HillDesigner": {
+              "$type": "CornerPusherHill-4527",
+              "MaxConsecutiveMisses": 10
+            },
+            "AreaPersistId": "IMG:export\\NW_cliff\\main.png",
+            "BlockPersistId": "BLK:131",
+            "LockRandomSeed": false
+          },
+          "Enabled": false
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutHill-4481",
+            "Elevation": 82,
+            "HillDesigner": {
+              "$type": "CornerPusherHill-4527",
+              "MaxConsecutiveMisses": 11
+            },
+            "AreaPersistId": "IMG:export\\NW_cliff\\East.png",
+            "BlockPersistId": "BLK:21",
+            "LockRandomSeed": false
+          },
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "ScriptName": "2nd Tier",
+      "ScriptNodes": null,
+      "ScriptNodes2": [
+        {
+          "ScriptNode": {
+            "$type": "PutHill-4481",
+            "Elevation": 80,
+            "HillDesigner": {
+              "$type": "CornerPusherHill-4527",
+              "MaxConsecutiveMisses": 11
+            },
+            "AreaPersistId": "IMG:export\\NW_cliff\\East.png",
+            "BlockPersistId": "BLK:21",
+            "LockRandomSeed": false
+          },
+          "Enabled": true
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutGround-3656",
+            "Scale": 23,
+            "YMin": 66,
+            "YRange": 1,
+            "YFloor": 48,
+            "AreaPersistId": null,
+            "BlockPersistId": "BLK:3",
+            "CustomRectArea": {
+              "X0": 912,
+              "Z0": 1025,
+              "X1": 985,
+              "Z1": 912
+            }
+          },
+          "Enabled": true
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutGround-3656",
+            "Scale": 31,
+            "YMin": 48,
+            "YRange": 1,
+            "YFloor": 1,
+            "AreaPersistId": null,
+            "BlockPersistId": "BLK:4",
+            "CustomRectArea": {
+              "X0": 850,
+              "Z0": 850,
+              "X1": 1090,
+              "Z1": 1114
+            }
+          },
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "ScriptName": "fill-in 2026-02-02",
+      "ScriptNodes": null,
+      "ScriptNodes2": [
+        {
+          "ScriptNode": {
+            "$type": "PutGround-3656",
+            "Scale": 23,
+            "YMin": 70,
+            "YRange": 1,
+            "YFloor": 1,
+            "AreaPersistId": null,
+            "BlockPersistId": "BLK:3",
+            "CustomRectArea": {
+              "X0": 982,
+              "Z0": 912,
+              "X1": 1010,
+              "Z1": 1025
+            }
+          },
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "ScriptName": "Welcome",
+      "ScriptNodes": null,
+      "ScriptNodes2": [
+        {
+          "ScriptNode": {
+            "$type": "PutHill-4481",
+            "Elevation": 32,
+            "HillDesigner": {
+              "$type": "CornerPusherHill-4527",
+              "MaxConsecutiveMisses": 11
+            },
+            "AreaPersistId": "IMG:export\\Welcome\\1.png",
+            "BlockPersistId": "BLK:130",
+            "LockRandomSeed": false
+          },
+          "Enabled": true
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutHill-4481",
+            "Elevation": 12,
+            "HillDesigner": {
+              "$type": "CornerPusherHill-4527",
+              "MaxConsecutiveMisses": 11
+            },
+            "AreaPersistId": "IMG:export\\Welcome\\2.png",
+            "BlockPersistId": "BLK:130",
+            "LockRandomSeed": false
+          },
+          "Enabled": true
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutHill-4481",
+            "Elevation": 24,
+            "HillDesigner": {
+              "$type": "CornerPusherHill-4527",
+              "MaxConsecutiveMisses": 11
+            },
+            "AreaPersistId": "IMG:export\\Welcome\\3.png",
+            "BlockPersistId": "BLK:130",
+            "LockRandomSeed": false
+          },
+          "Enabled": true
+        }
+      ]
+    }
+  ],
+  "SelectedScriptIndex": 18,
+  "ExtractedSnippets": [
+    {
+      "PersistentId": "1ae86710-89ea-402e-928a-4af552e0bf0d",
+      "Name": "wheelhouse cliff",
+      "SourceSlot": {
+        "SlotNumber": 3,
+        "SlotName": "Slot 3 (B02)"
+      },
+      "SourceStgdatFilename": "STGDAT16.BIN",
+      "AreaPersistentId": null,
+      "CustomRectArea": {
+        "X0": 1049,
+        "Z0": 1000,
+        "X1": 1111,
+        "Z1": 947
+      },
+      "FloorY": 12
+    },
+    {
+      "PersistentId": "3ce489c3-9224-4613-b90f-d6b4780f7df3",
+      "Name": "Cantlin Garden relocator",
+      "SourceSlot": {
+        "SlotNumber": 3,
+        "SlotName": "Slot 3 (B02)"
+      },
+      "SourceStgdatFilename": "STGDAT16.BIN",
+      "AreaPersistentId": null,
+      "CustomRectArea": {
+        "X0": 987,
+        "Z0": 1054,
+        "X1": 1017,
+        "Z1": 1092
+      },
+      "FloorY": 10
+    },
+    {
+      "PersistentId": "5f7e2d04-9b84-420f-8e68-dff5f29d67da",
+      "Name": "base approach",
+      "SourceSlot": {
+        "SlotNumber": 3,
+        "SlotName": "Slot 3 (B02)"
+      },
+      "SourceStgdatFilename": "STGDAT16.BIN",
+      "AreaPersistentId": null,
+      "CustomRectArea": {
+        "X0": 1078,
+        "Z0": 1043,
+        "X1": 1131,
+        "Z1": 1085
+      },
+      "FloorY": 60
+    },
+    {
+      "PersistentId": "fa123608-8a9a-40ee-88f4-73bff9ff7efe",
+      "Name": "main base",
+      "SourceSlot": {
+        "SlotNumber": 3,
+        "SlotName": "Slot 3 (B02)"
+      },
+      "SourceStgdatFilename": "STGDAT16.BIN",
+      "AreaPersistentId": null,
+      "CustomRectArea": {
+        "X0": 1062,
+        "Z0": 1080,
+        "X1": 1135,
+        "Z1": 1156
+      },
+      "FloorY": 60
+    }
+  ]
+}
