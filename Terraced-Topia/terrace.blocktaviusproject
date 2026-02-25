@@ -15,120 +15,40 @@
       "OffsetZ": 23
     },
     {
+      "OffsetX": 26,
+      "OffsetZ": 26
+    },
+    {
       "OffsetX": 27,
-      "OffsetZ": 38
+      "OffsetZ": 26
     },
     {
       "OffsetX": 28,
-      "OffsetZ": 38
+      "OffsetZ": 26
     },
     {
       "OffsetX": 29,
-      "OffsetZ": 38
+      "OffsetZ": 26
     },
     {
       "OffsetX": 30,
-      "OffsetZ": 38
+      "OffsetZ": 26
     },
     {
       "OffsetX": 31,
-      "OffsetZ": 38
+      "OffsetZ": 26
     },
     {
       "OffsetX": 32,
-      "OffsetZ": 38
+      "OffsetZ": 26
     },
     {
-      "OffsetX": 33,
-      "OffsetZ": 38
+      "OffsetX": 26,
+      "OffsetZ": 27
     },
     {
-      "OffsetX": 34,
-      "OffsetZ": 38
-    },
-    {
-      "OffsetX": 35,
-      "OffsetZ": 38
-    },
-    {
-      "OffsetX": 36,
-      "OffsetZ": 38
-    },
-    {
-      "OffsetX": 37,
-      "OffsetZ": 38
-    },
-    {
-      "OffsetX": 29,
-      "OffsetZ": 39
-    },
-    {
-      "OffsetX": 30,
-      "OffsetZ": 39
-    },
-    {
-      "OffsetX": 31,
-      "OffsetZ": 39
-    },
-    {
-      "OffsetX": 32,
-      "OffsetZ": 39
-    },
-    {
-      "OffsetX": 33,
-      "OffsetZ": 39
-    },
-    {
-      "OffsetX": 34,
-      "OffsetZ": 39
-    },
-    {
-      "OffsetX": 35,
-      "OffsetZ": 39
-    },
-    {
-      "OffsetX": 36,
-      "OffsetZ": 39
-    },
-    {
-      "OffsetX": 37,
-      "OffsetZ": 39
-    },
-    {
-      "OffsetX": 29,
-      "OffsetZ": 40
-    },
-    {
-      "OffsetX": 30,
-      "OffsetZ": 40
-    },
-    {
-      "OffsetX": 31,
-      "OffsetZ": 40
-    },
-    {
-      "OffsetX": 32,
-      "OffsetZ": 40
-    },
-    {
-      "OffsetX": 33,
-      "OffsetZ": 40
-    },
-    {
-      "OffsetX": 34,
-      "OffsetZ": 40
-    },
-    {
-      "OffsetX": 35,
-      "OffsetZ": 40
-    },
-    {
-      "OffsetX": 36,
-      "OffsetZ": 40
-    },
-    {
-      "OffsetX": 37,
-      "OffsetZ": 40
+      "OffsetX": 26,
+      "OffsetZ": 28
     }
   ],
   "Notes": "",
@@ -240,6 +160,22 @@
     {
       "RelativePath": "export\\Welcome\\3.png",
       "IsVisible": true
+    },
+    {
+      "RelativePath": "export\\Welcome_Backstop\\1.png",
+      "IsVisible": true
+    },
+    {
+      "RelativePath": "export\\Welcome_Backstop\\2.png",
+      "IsVisible": true
+    },
+    {
+      "RelativePath": "export\\Group_2\\base_border_N.png",
+      "IsVisible": false
+    },
+    {
+      "RelativePath": "export\\base_border_N\\1.png",
+      "IsVisible": true
     }
   ],
   "MinimapVisible": true,
@@ -259,7 +195,7 @@
             },
             "AreaPersistId": "IMG:export\\plateaus\\p1.png",
             "BlockPersistId": "BLK:12",
-            "LockRandomSeed": false
+            "LockedRandomSeed": null
           },
           "Enabled": true
         },
@@ -273,7 +209,7 @@
             },
             "AreaPersistId": "IMG:export\\plateaus\\p2.png",
             "BlockPersistId": "BLK:12",
-            "LockRandomSeed": false
+            "LockedRandomSeed": null
           },
           "Enabled": true
         },
@@ -287,7 +223,7 @@
             },
             "AreaPersistId": "IMG:export\\plateaus\\p3.png",
             "BlockPersistId": "BLK:12",
-            "LockRandomSeed": false
+            "LockedRandomSeed": null
           },
           "Enabled": true
         },
@@ -301,7 +237,7 @@
             },
             "AreaPersistId": "IMG:export\\plateaus\\p4.png",
             "BlockPersistId": "BLK:12",
-            "LockRandomSeed": false
+            "LockedRandomSeed": null
           },
           "Enabled": true
         },
@@ -357,7 +293,11 @@
           },
           "Enabled": true
         }
-      ]
+      ],
+      "ExpandBedrock": false,
+      "RepairSeaEnabled": false,
+      "RepairSeaLevel": 31,
+      "RepairSeaType": 7
     },
     {
       "ScriptName": "Terrace alt",
@@ -374,7 +314,7 @@
             },
             "AreaPersistId": "IMG:export\\plat2\\peak.png",
             "BlockPersistId": "BLK:3",
-            "LockRandomSeed": false
+            "LockedRandomSeed": null
           },
           "Enabled": true
         },
@@ -389,7 +329,7 @@
             },
             "AreaPersistId": "IMG:export\\plat2\\1.png",
             "BlockPersistId": "BLK:3",
-            "LockRandomSeed": false
+            "LockedRandomSeed": null
           },
           "Enabled": true
         },
@@ -404,7 +344,7 @@
             },
             "AreaPersistId": "IMG:export\\plat2\\2.png",
             "BlockPersistId": "BLK:3",
-            "LockRandomSeed": false
+            "LockedRandomSeed": null
           },
           "Enabled": true
         },
@@ -419,11 +359,15 @@
             },
             "AreaPersistId": "IMG:export\\plat2\\3.png",
             "BlockPersistId": "BLK:3",
-            "LockRandomSeed": false
+            "LockedRandomSeed": null
           },
           "Enabled": true
         }
-      ]
+      ],
+      "ExpandBedrock": false,
+      "RepairSeaEnabled": false,
+      "RepairSeaLevel": 31,
+      "RepairSeaType": 7
     },
     {
       "ScriptName": "Temp Platform",
@@ -442,7 +386,11 @@
           },
           "Enabled": true
         }
-      ]
+      ],
+      "ExpandBedrock": false,
+      "RepairSeaEnabled": false,
+      "RepairSeaLevel": 31,
+      "RepairSeaType": 7
     },
     {
       "ScriptName": "Script 4",
@@ -458,7 +406,7 @@
             },
             "AreaPersistId": "IMG:export\\take3\\p40.png",
             "BlockPersistId": "BLK:131",
-            "LockRandomSeed": false
+            "LockedRandomSeed": null
           },
           "Enabled": true
         },
@@ -472,7 +420,7 @@
             },
             "AreaPersistId": "IMG:export\\take3\\p30.png",
             "BlockPersistId": "BLK:12",
-            "LockRandomSeed": false
+            "LockedRandomSeed": null
           },
           "Enabled": true
         },
@@ -486,7 +434,7 @@
             },
             "AreaPersistId": "IMG:export\\take3\\p20.png",
             "BlockPersistId": "BLK:131",
-            "LockRandomSeed": false
+            "LockedRandomSeed": null
           },
           "Enabled": true
         },
@@ -500,7 +448,7 @@
             },
             "AreaPersistId": "IMG:export\\take3\\p10.png",
             "BlockPersistId": "BLK:12",
-            "LockRandomSeed": false
+            "LockedRandomSeed": null
           },
           "Enabled": true
         },
@@ -514,7 +462,7 @@
             },
             "AreaPersistId": "IMG:export\\take3\\Approach.png",
             "BlockPersistId": "BLK:3",
-            "LockRandomSeed": false
+            "LockedRandomSeed": null
           },
           "Enabled": true
         },
@@ -528,11 +476,15 @@
             },
             "AreaPersistId": "IMG:export\\take3\\Peak.png",
             "BlockPersistId": "BLK:131",
-            "LockRandomSeed": false
+            "LockedRandomSeed": null
           },
           "Enabled": true
         }
-      ]
+      ],
+      "ExpandBedrock": false,
+      "RepairSeaEnabled": false,
+      "RepairSeaLevel": 31,
+      "RepairSeaType": 7
     },
     {
       "ScriptName": "Platform Cleanup 2026-01-11",
@@ -556,7 +508,11 @@
           },
           "Enabled": true
         }
-      ]
+      ],
+      "ExpandBedrock": false,
+      "RepairSeaEnabled": false,
+      "RepairSeaLevel": 31,
+      "RepairSeaType": 7
     },
     {
       "ScriptName": "Script 6",
@@ -573,7 +529,11 @@
           },
           "Enabled": true
         }
-      ]
+      ],
+      "ExpandBedrock": false,
+      "RepairSeaEnabled": false,
+      "RepairSeaLevel": 31,
+      "RepairSeaType": 7
     },
     {
       "ScriptName": "Corner Gull Test",
@@ -669,7 +629,11 @@
           },
           "Enabled": true
         }
-      ]
+      ],
+      "ExpandBedrock": false,
+      "RepairSeaEnabled": false,
+      "RepairSeaLevel": 31,
+      "RepairSeaType": 7
     },
     {
       "ScriptName": "Move Cantlin Garden",
@@ -686,7 +650,11 @@
           },
           "Enabled": true
         }
-      ]
+      ],
+      "ExpandBedrock": false,
+      "RepairSeaEnabled": false,
+      "RepairSeaLevel": 31,
+      "RepairSeaType": 7
     },
     {
       "ScriptName": "Base Sizing",
@@ -701,11 +669,15 @@
             },
             "AreaPersistId": "IMG:export\\135x167.png",
             "BlockPersistId": "BLK:12",
-            "LockRandomSeed": false
+            "LockedRandomSeed": null
           },
           "Enabled": true
         }
-      ]
+      ],
+      "ExpandBedrock": false,
+      "RepairSeaEnabled": false,
+      "RepairSeaLevel": 31,
+      "RepairSeaType": 7
     },
     {
       "ScriptName": "Terrain Layout",
@@ -721,7 +693,7 @@
             },
             "AreaPersistId": "IMG:export\\135x167.png",
             "BlockPersistId": "BLK:131",
-            "LockRandomSeed": false
+            "LockedRandomSeed": null
           },
           "Enabled": true
         },
@@ -735,7 +707,7 @@
             },
             "AreaPersistId": "IMG:export\\agrop1\\sw1.png",
             "BlockPersistId": "BLK:3",
-            "LockRandomSeed": false
+            "LockedRandomSeed": null
           },
           "Enabled": true
         },
@@ -749,7 +721,7 @@
             },
             "AreaPersistId": "IMG:export\\agrop1\\sw2.png",
             "BlockPersistId": "BLK:3",
-            "LockRandomSeed": false
+            "LockedRandomSeed": null
           },
           "Enabled": true
         },
@@ -763,7 +735,7 @@
             },
             "AreaPersistId": "IMG:export\\agrop1\\sw3.png",
             "BlockPersistId": "BLK:3",
-            "LockRandomSeed": false
+            "LockedRandomSeed": null
           },
           "Enabled": true
         },
@@ -777,11 +749,15 @@
             },
             "AreaPersistId": "IMG:export\\agrop1\\sw-border.png",
             "BlockPersistId": "BLK:12",
-            "LockRandomSeed": false
+            "LockedRandomSeed": null
           },
           "Enabled": true
         }
-      ]
+      ],
+      "ExpandBedrock": false,
+      "RepairSeaEnabled": false,
+      "RepairSeaLevel": 31,
+      "RepairSeaType": 7
     },
     {
       "ScriptName": "base reposition",
@@ -827,7 +803,11 @@
           },
           "Enabled": true
         }
-      ]
+      ],
+      "ExpandBedrock": false,
+      "RepairSeaEnabled": false,
+      "RepairSeaLevel": 31,
+      "RepairSeaType": 7
     },
     {
       "ScriptName": "misc fill-in",
@@ -851,7 +831,11 @@
           },
           "Enabled": true
         }
-      ]
+      ],
+      "ExpandBedrock": false,
+      "RepairSeaEnabled": false,
+      "RepairSeaLevel": 31,
+      "RepairSeaType": 7
     },
     {
       "ScriptName": "dock",
@@ -898,11 +882,15 @@
             },
             "AreaPersistId": "IMG:export\\dock\\cliff.png",
             "BlockPersistId": "BLK:131",
-            "LockRandomSeed": false
+            "LockedRandomSeed": null
           },
           "Enabled": true
         }
-      ]
+      ],
+      "ExpandBedrock": false,
+      "RepairSeaEnabled": false,
+      "RepairSeaLevel": 31,
+      "RepairSeaType": 7
     },
     {
       "ScriptName": "old base cleanup",
@@ -926,7 +914,11 @@
           },
           "Enabled": true
         }
-      ]
+      ],
+      "ExpandBedrock": false,
+      "RepairSeaEnabled": false,
+      "RepairSeaLevel": 31,
+      "RepairSeaType": 7
     },
     {
       "ScriptName": "Script 15",
@@ -950,7 +942,11 @@
           },
           "Enabled": true
         }
-      ]
+      ],
+      "ExpandBedrock": false,
+      "RepairSeaEnabled": false,
+      "RepairSeaLevel": 31,
+      "RepairSeaType": 7
     },
     {
       "ScriptName": "NW cliff",
@@ -966,7 +962,7 @@
             },
             "AreaPersistId": "IMG:export\\NW_cliff\\main.png",
             "BlockPersistId": "BLK:131",
-            "LockRandomSeed": false
+            "LockedRandomSeed": null
           },
           "Enabled": false
         },
@@ -980,11 +976,15 @@
             },
             "AreaPersistId": "IMG:export\\NW_cliff\\East.png",
             "BlockPersistId": "BLK:21",
-            "LockRandomSeed": false
+            "LockedRandomSeed": null
           },
           "Enabled": true
         }
-      ]
+      ],
+      "ExpandBedrock": false,
+      "RepairSeaEnabled": false,
+      "RepairSeaLevel": 31,
+      "RepairSeaType": 7
     },
     {
       "ScriptName": "2nd Tier",
@@ -1000,7 +1000,7 @@
             },
             "AreaPersistId": "IMG:export\\NW_cliff\\East.png",
             "BlockPersistId": "BLK:21",
-            "LockRandomSeed": false
+            "LockedRandomSeed": null
           },
           "Enabled": true
         },
@@ -1040,7 +1040,11 @@
           },
           "Enabled": true
         }
-      ]
+      ],
+      "ExpandBedrock": false,
+      "RepairSeaEnabled": false,
+      "RepairSeaLevel": 31,
+      "RepairSeaType": 7
     },
     {
       "ScriptName": "fill-in 2026-02-02",
@@ -1064,7 +1068,11 @@
           },
           "Enabled": true
         }
-      ]
+      ],
+      "ExpandBedrock": false,
+      "RepairSeaEnabled": false,
+      "RepairSeaLevel": 31,
+      "RepairSeaType": 7
     },
     {
       "ScriptName": "Welcome",
@@ -1080,7 +1088,7 @@
             },
             "AreaPersistId": "IMG:export\\Welcome\\1.png",
             "BlockPersistId": "BLK:130",
-            "LockRandomSeed": false
+            "LockedRandomSeed": null
           },
           "Enabled": true
         },
@@ -1094,7 +1102,7 @@
             },
             "AreaPersistId": "IMG:export\\Welcome\\2.png",
             "BlockPersistId": "BLK:130",
-            "LockRandomSeed": false
+            "LockedRandomSeed": null
           },
           "Enabled": true
         },
@@ -1108,14 +1116,401 @@
             },
             "AreaPersistId": "IMG:export\\Welcome\\3.png",
             "BlockPersistId": "BLK:130",
-            "LockRandomSeed": false
+            "LockedRandomSeed": null
           },
           "Enabled": true
         }
-      ]
+      ],
+      "ExpandBedrock": false,
+      "RepairSeaEnabled": false,
+      "RepairSeaLevel": 31,
+      "RepairSeaType": 7
+    },
+    {
+      "ScriptName": "CG Mirror",
+      "ScriptNodes": null,
+      "ScriptNodes2": [
+        {
+          "ScriptNode": {
+            "$type": "PutSnippet-7890",
+            "SnippetPersistentId": "343ccec4-357b-467c-90c1-9d0f6973fb80",
+            "Rotation": 270,
+            "NorthwestX": 1130,
+            "NorthwestZ": 910,
+            "AdjustY": 20
+          },
+          "Enabled": true
+        }
+      ],
+      "ExpandBedrock": false,
+      "RepairSeaEnabled": false,
+      "RepairSeaLevel": 31,
+      "RepairSeaType": 7
+    },
+    {
+      "ScriptName": "misc",
+      "ScriptNodes": null,
+      "ScriptNodes2": [
+        {
+          "ScriptNode": {
+            "$type": "PutHill-4481",
+            "Elevation": 24,
+            "HillDesigner": {
+              "$type": "PlainHill-7791",
+              "Steepness": 90,
+              "CornerType": 1
+            },
+            "AreaPersistId": "IMG:export\\Welcome\\3.png",
+            "BlockPersistId": "BLK:130",
+            "LockedRandomSeed": null
+          },
+          "Enabled": true
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutGround-3656",
+            "Scale": 23,
+            "YMin": 15,
+            "YRange": 1,
+            "YFloor": 1,
+            "AreaPersistId": null,
+            "BlockPersistId": "BLK:3",
+            "CustomRectArea": {
+              "X0": 850,
+              "Z0": 1115,
+              "X1": 957,
+              "Z1": 1163
+            }
+          },
+          "Enabled": true
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutGround-3656",
+            "Scale": 23,
+            "YMin": 15,
+            "YRange": 1,
+            "YFloor": 1,
+            "AreaPersistId": null,
+            "BlockPersistId": "BLK:3",
+            "CustomRectArea": {
+              "X0": 958,
+              "Z0": 1115,
+              "X1": 1250,
+              "Z1": 1152
+            }
+          },
+          "Enabled": true
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutGround-3656",
+            "Scale": 23,
+            "YMin": 15,
+            "YRange": 1,
+            "YFloor": 1,
+            "AreaPersistId": null,
+            "BlockPersistId": "BLK:3",
+            "CustomRectArea": {
+              "X0": 1091,
+              "Z0": 850,
+              "X1": 1300,
+              "Z1": 1130
+            }
+          },
+          "Enabled": true
+        }
+      ],
+      "ExpandBedrock": false,
+      "RepairSeaEnabled": false,
+      "RepairSeaLevel": 31,
+      "RepairSeaType": 7
+    },
+    {
+      "ScriptName": "Welcome Backstop",
+      "ScriptNodes": null,
+      "ScriptNodes2": [
+        {
+          "ScriptNode": {
+            "$type": "PutGround-3656",
+            "Scale": 23,
+            "YMin": 17,
+            "YRange": 1,
+            "YFloor": 1,
+            "AreaPersistId": null,
+            "BlockPersistId": "BLK:3",
+            "CustomRectArea": {
+              "X0": 1020,
+              "Z0": 1110,
+              "X1": 1160,
+              "Z1": 1208
+            }
+          },
+          "Enabled": true
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutGround-3656",
+            "Scale": 23,
+            "YMin": 90,
+            "YRange": 1,
+            "YFloor": 15,
+            "AreaPersistId": null,
+            "BlockPersistId": "BLK:0",
+            "CustomRectArea": {
+              "X0": 905,
+              "Z0": 1102,
+              "X1": 996,
+              "Z1": 1114
+            }
+          },
+          "Enabled": true
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutHill-4481",
+            "Elevation": 48,
+            "HillDesigner": {
+              "$type": "CornerPusherHill-4527",
+              "MaxConsecutiveMisses": 11
+            },
+            "AreaPersistId": "IMG:export\\Welcome_Backstop\\1.png",
+            "BlockPersistId": "BLK:21",
+            "LockedRandomSeed": "4147355382-548667994-1153973329-681991183-3708461501-2377575888"
+          },
+          "Enabled": true
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutHill-4481",
+            "Elevation": 38,
+            "HillDesigner": {
+              "$type": "CornerPusherHill-4527",
+              "MaxConsecutiveMisses": 11
+            },
+            "AreaPersistId": "IMG:export\\Welcome_Backstop\\2.png",
+            "BlockPersistId": "BLK:21",
+            "LockedRandomSeed": null
+          },
+          "Enabled": true
+        }
+      ],
+      "ExpandBedrock": false,
+      "RepairSeaEnabled": false,
+      "RepairSeaLevel": 31,
+      "RepairSeaType": 7
+    },
+    {
+      "ScriptName": "CG\u002Bswitchback merger",
+      "ScriptNodes": null,
+      "ScriptNodes2": [
+        {
+          "ScriptNode": {
+            "$type": "PutGround-3656",
+            "Scale": 23,
+            "YMin": 25,
+            "YRange": 1,
+            "YFloor": 1,
+            "AreaPersistId": null,
+            "BlockPersistId": "BLK:3",
+            "CustomRectArea": {
+              "X0": 1091,
+              "Z0": 810,
+              "X1": 1167,
+              "Z1": 909
+            }
+          },
+          "Enabled": false
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutGround-3656",
+            "Scale": 23,
+            "YMin": 25,
+            "YRange": 1,
+            "YFloor": 1,
+            "AreaPersistId": null,
+            "BlockPersistId": "BLK:3",
+            "CustomRectArea": {
+              "X0": 1091,
+              "Z0": 875,
+              "X1": 1129,
+              "Z1": 980
+            }
+          },
+          "Enabled": false
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutGround-3656",
+            "Scale": 23,
+            "YMin": 24,
+            "YRange": 1,
+            "YFloor": 1,
+            "AreaPersistId": null,
+            "BlockPersistId": "BLK:3",
+            "CustomRectArea": {
+              "X0": 1109,
+              "Z0": 941,
+              "X1": 1200,
+              "Z1": 980
+            }
+          },
+          "Enabled": false
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutGround-3656",
+            "Scale": 23,
+            "YMin": 90,
+            "YRange": 1,
+            "YFloor": 25,
+            "AreaPersistId": null,
+            "BlockPersistId": "BLK:0",
+            "CustomRectArea": {
+              "X0": 1109,
+              "Z0": 875,
+              "X1": 1158,
+              "Z1": 902
+            }
+          },
+          "Enabled": true
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutGround-3656",
+            "Scale": 23,
+            "YMin": 26,
+            "YRange": 1,
+            "YFloor": 1,
+            "AreaPersistId": null,
+            "BlockPersistId": "BLK:3",
+            "CustomRectArea": {
+              "X0": 1109,
+              "Z0": 875,
+              "X1": 1158,
+              "Z1": 902
+            }
+          },
+          "Enabled": true
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutSnippet-7890",
+            "SnippetPersistentId": "f9664be0-b4fd-45b7-a995-da330308a448",
+            "Rotation": 0,
+            "NorthwestX": 1109,
+            "NorthwestZ": 875,
+            "AdjustY": 26
+          },
+          "Enabled": true
+        }
+      ],
+      "ExpandBedrock": false,
+      "RepairSeaEnabled": false,
+      "RepairSeaLevel": 31,
+      "RepairSeaType": 7
+    },
+    {
+      "ScriptName": "Script 24",
+      "ScriptNodes": null,
+      "ScriptNodes2": [
+        {
+          "ScriptNode": {
+            "$type": "PutGround-3656",
+            "Scale": 23,
+            "YMin": 25,
+            "YRange": 1,
+            "YFloor": 1,
+            "AreaPersistId": null,
+            "BlockPersistId": "BLK:3",
+            "CustomRectArea": {
+              "X0": 1162,
+              "Z0": 870,
+              "X1": 1250,
+              "Z1": 955
+            }
+          },
+          "Enabled": true
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutGround-3656",
+            "Scale": 23,
+            "YMin": 26,
+            "YRange": 1,
+            "YFloor": 1,
+            "AreaPersistId": null,
+            "BlockPersistId": "BLK:3",
+            "CustomRectArea": {
+              "X0": 1098,
+              "Z0": 953,
+              "X1": 1250,
+              "Z1": 1001
+            }
+          },
+          "Enabled": true
+        }
+      ],
+      "ExpandBedrock": false,
+      "RepairSeaEnabled": false,
+      "RepairSeaLevel": 31,
+      "RepairSeaType": 7
+    },
+    {
+      "ScriptName": "Script 25",
+      "ScriptNodes": null,
+      "ScriptNodes2": [
+        {
+          "ScriptNode": {
+            "$type": "PutGround-3656",
+            "Scale": 23,
+            "YMin": 70,
+            "YRange": 1,
+            "YFloor": 1,
+            "AreaPersistId": null,
+            "BlockPersistId": "BLK:3",
+            "CustomRectArea": {
+              "X0": 777,
+              "Z0": 911,
+              "X1": 990,
+              "Z1": 850
+            }
+          },
+          "Enabled": true
+        }
+      ],
+      "ExpandBedrock": false,
+      "RepairSeaEnabled": false,
+      "RepairSeaLevel": 31,
+      "RepairSeaType": 7
+    },
+    {
+      "ScriptName": "base border N",
+      "ScriptNodes": null,
+      "ScriptNodes2": [
+        {
+          "ScriptNode": {
+            "$type": "PutHill-4481",
+            "Elevation": 74,
+            "HillDesigner": {
+              "$type": "CornerPusherHill-4527",
+              "MaxConsecutiveMisses": 11
+            },
+            "AreaPersistId": "IMG:export\\base_border_N\\1.png",
+            "BlockPersistId": "BLK:21",
+            "LockedRandomSeed": "3717000799-3234619599-1839794241-3999166045-2267230780-3471593105"
+          },
+          "Enabled": true
+        }
+      ],
+      "ExpandBedrock": true,
+      "RepairSeaEnabled": false,
+      "RepairSeaLevel": 11,
+      "RepairSeaType": 7
     }
   ],
-  "SelectedScriptIndex": 18,
+  "SelectedScriptIndex": 25,
   "ExtractedSnippets": [
     {
       "PersistentId": "1ae86710-89ea-402e-928a-4af552e0bf0d",
@@ -1184,6 +1579,40 @@
         "Z1": 1156
       },
       "FloorY": 60
+    },
+    {
+      "PersistentId": "343ccec4-357b-467c-90c1-9d0f6973fb80",
+      "Name": "CG",
+      "SourceSlot": {
+        "SlotNumber": 3,
+        "SlotName": "Slot 3 (B02)"
+      },
+      "SourceStgdatFilename": "STGDAT16.BIN",
+      "AreaPersistentId": null,
+      "CustomRectArea": {
+        "X0": 1170,
+        "Z0": 895,
+        "X1": 1200,
+        "Z1": 926
+      },
+      "FloorY": 20
+    },
+    {
+      "PersistentId": "f9664be0-b4fd-45b7-a995-da330308a448",
+      "Name": "switchback 2026-02-22",
+      "SourceSlot": {
+        "SlotNumber": 3,
+        "SlotName": "Slot 3 (B02)"
+      },
+      "SourceStgdatFilename": "STGDAT16.BIN",
+      "AreaPersistentId": null,
+      "CustomRectArea": {
+        "X0": 1107,
+        "Z0": 1002,
+        "X1": 1153,
+        "Z1": 1029
+      },
+      "FloorY": 15
     }
   ]
 }
