@@ -23,32 +23,32 @@
       "OffsetZ": 26
     },
     {
-      "OffsetX": 28,
-      "OffsetZ": 26
-    },
-    {
-      "OffsetX": 29,
-      "OffsetZ": 26
-    },
-    {
-      "OffsetX": 30,
-      "OffsetZ": 26
-    },
-    {
-      "OffsetX": 31,
-      "OffsetZ": 26
-    },
-    {
-      "OffsetX": 32,
-      "OffsetZ": 26
-    },
-    {
       "OffsetX": 26,
       "OffsetZ": 27
     },
     {
       "OffsetX": 26,
       "OffsetZ": 28
+    },
+    {
+      "OffsetX": 26,
+      "OffsetZ": 29
+    },
+    {
+      "OffsetX": 26,
+      "OffsetZ": 30
+    },
+    {
+      "OffsetX": 26,
+      "OffsetZ": 31
+    },
+    {
+      "OffsetX": 26,
+      "OffsetZ": 32
+    },
+    {
+      "OffsetX": 26,
+      "OffsetZ": 33
     }
   ],
   "Notes": "",
@@ -175,6 +175,10 @@
     },
     {
       "RelativePath": "export\\base_border_N\\1.png",
+      "IsVisible": true
+    },
+    {
+      "RelativePath": "export\\base_border_S\\1.png",
       "IsVisible": true
     }
   ],
@@ -402,7 +406,8 @@
             "Elevation": 22,
             "HillDesigner": {
               "$type": "CornerPusherHill-4527",
-              "MaxConsecutiveMisses": 11
+              "MaxConsecutiveMisses": 11,
+              "OverhangAmount": -1
             },
             "AreaPersistId": "IMG:export\\take3\\p40.png",
             "BlockPersistId": "BLK:131",
@@ -416,7 +421,8 @@
             "Elevation": 30,
             "HillDesigner": {
               "$type": "CornerPusherHill-4527",
-              "MaxConsecutiveMisses": 11
+              "MaxConsecutiveMisses": 11,
+              "OverhangAmount": -1
             },
             "AreaPersistId": "IMG:export\\take3\\p30.png",
             "BlockPersistId": "BLK:12",
@@ -430,7 +436,8 @@
             "Elevation": 44,
             "HillDesigner": {
               "$type": "CornerPusherHill-4527",
-              "MaxConsecutiveMisses": 11
+              "MaxConsecutiveMisses": 11,
+              "OverhangAmount": -1
             },
             "AreaPersistId": "IMG:export\\take3\\p20.png",
             "BlockPersistId": "BLK:131",
@@ -444,7 +451,8 @@
             "Elevation": 52,
             "HillDesigner": {
               "$type": "CornerPusherHill-4527",
-              "MaxConsecutiveMisses": 11
+              "MaxConsecutiveMisses": 11,
+              "OverhangAmount": -1
             },
             "AreaPersistId": "IMG:export\\take3\\p10.png",
             "BlockPersistId": "BLK:12",
@@ -458,7 +466,8 @@
             "Elevation": 63,
             "HillDesigner": {
               "$type": "CornerPusherHill-4527",
-              "MaxConsecutiveMisses": 11
+              "MaxConsecutiveMisses": 11,
+              "OverhangAmount": -1
             },
             "AreaPersistId": "IMG:export\\take3\\Approach.png",
             "BlockPersistId": "BLK:3",
@@ -472,7 +481,8 @@
             "Elevation": 80,
             "HillDesigner": {
               "$type": "CornerPusherHill-4527",
-              "MaxConsecutiveMisses": 11
+              "MaxConsecutiveMisses": 11,
+              "OverhangAmount": -1
             },
             "AreaPersistId": "IMG:export\\take3\\Peak.png",
             "BlockPersistId": "BLK:131",
@@ -745,7 +755,8 @@
             "Elevation": 40,
             "HillDesigner": {
               "$type": "CornerPusherHill-4527",
-              "MaxConsecutiveMisses": 11
+              "MaxConsecutiveMisses": 11,
+              "OverhangAmount": -1
             },
             "AreaPersistId": "IMG:export\\agrop1\\sw-border.png",
             "BlockPersistId": "BLK:12",
@@ -878,7 +889,8 @@
             "Elevation": 17,
             "HillDesigner": {
               "$type": "CornerPusherHill-4527",
-              "MaxConsecutiveMisses": 11
+              "MaxConsecutiveMisses": 11,
+              "OverhangAmount": -1
             },
             "AreaPersistId": "IMG:export\\dock\\cliff.png",
             "BlockPersistId": "BLK:131",
@@ -958,7 +970,8 @@
             "Elevation": 80,
             "HillDesigner": {
               "$type": "CornerPusherHill-4527",
-              "MaxConsecutiveMisses": 10
+              "MaxConsecutiveMisses": 10,
+              "OverhangAmount": -1
             },
             "AreaPersistId": "IMG:export\\NW_cliff\\main.png",
             "BlockPersistId": "BLK:131",
@@ -972,7 +985,8 @@
             "Elevation": 82,
             "HillDesigner": {
               "$type": "CornerPusherHill-4527",
-              "MaxConsecutiveMisses": 11
+              "MaxConsecutiveMisses": 11,
+              "OverhangAmount": -1
             },
             "AreaPersistId": "IMG:export\\NW_cliff\\East.png",
             "BlockPersistId": "BLK:21",
@@ -996,7 +1010,8 @@
             "Elevation": 80,
             "HillDesigner": {
               "$type": "CornerPusherHill-4527",
-              "MaxConsecutiveMisses": 11
+              "MaxConsecutiveMisses": 11,
+              "OverhangAmount": -1
             },
             "AreaPersistId": "IMG:export\\NW_cliff\\East.png",
             "BlockPersistId": "BLK:21",
@@ -1084,7 +1099,8 @@
             "Elevation": 32,
             "HillDesigner": {
               "$type": "CornerPusherHill-4527",
-              "MaxConsecutiveMisses": 11
+              "MaxConsecutiveMisses": 11,
+              "OverhangAmount": -1
             },
             "AreaPersistId": "IMG:export\\Welcome\\1.png",
             "BlockPersistId": "BLK:130",
@@ -1098,7 +1114,8 @@
             "Elevation": 12,
             "HillDesigner": {
               "$type": "CornerPusherHill-4527",
-              "MaxConsecutiveMisses": 11
+              "MaxConsecutiveMisses": 11,
+              "OverhangAmount": -1
             },
             "AreaPersistId": "IMG:export\\Welcome\\2.png",
             "BlockPersistId": "BLK:130",
@@ -1112,7 +1129,8 @@
             "Elevation": 24,
             "HillDesigner": {
               "$type": "CornerPusherHill-4527",
-              "MaxConsecutiveMisses": 11
+              "MaxConsecutiveMisses": 11,
+              "OverhangAmount": -1
             },
             "AreaPersistId": "IMG:export\\Welcome\\3.png",
             "BlockPersistId": "BLK:130",
@@ -1272,7 +1290,8 @@
             "Elevation": 48,
             "HillDesigner": {
               "$type": "CornerPusherHill-4527",
-              "MaxConsecutiveMisses": 11
+              "MaxConsecutiveMisses": 11,
+              "OverhangAmount": -1
             },
             "AreaPersistId": "IMG:export\\Welcome_Backstop\\1.png",
             "BlockPersistId": "BLK:21",
@@ -1286,7 +1305,8 @@
             "Elevation": 38,
             "HillDesigner": {
               "$type": "CornerPusherHill-4527",
-              "MaxConsecutiveMisses": 11
+              "MaxConsecutiveMisses": 11,
+              "OverhangAmount": -1
             },
             "AreaPersistId": "IMG:export\\Welcome_Backstop\\2.png",
             "BlockPersistId": "BLK:21",
@@ -1495,7 +1515,8 @@
             "Elevation": 74,
             "HillDesigner": {
               "$type": "CornerPusherHill-4527",
-              "MaxConsecutiveMisses": 11
+              "MaxConsecutiveMisses": 11,
+              "OverhangAmount": -1
             },
             "AreaPersistId": "IMG:export\\base_border_N\\1.png",
             "BlockPersistId": "BLK:21",
@@ -1508,9 +1529,180 @@
       "RepairSeaEnabled": false,
       "RepairSeaLevel": 11,
       "RepairSeaType": 7
+    },
+    {
+      "ScriptName": "Script 27",
+      "ScriptNodes": null,
+      "ScriptNodes2": [
+        {
+          "ScriptNode": {
+            "$type": "PutGround-3656",
+            "Scale": 23,
+            "YMin": 70,
+            "YRange": 1,
+            "YFloor": 1,
+            "AreaPersistId": null,
+            "BlockPersistId": "BLK:21",
+            "CustomRectArea": {
+              "X0": 999,
+              "Z0": 881,
+              "X1": 1000,
+              "Z1": 881
+            }
+          },
+          "Enabled": true
+        }
+      ],
+      "ExpandBedrock": true,
+      "RepairSeaEnabled": false,
+      "RepairSeaLevel": 31,
+      "RepairSeaType": 7
+    },
+    {
+      "ScriptName": "base border S",
+      "ScriptNodes": null,
+      "ScriptNodes2": [
+        {
+          "ScriptNode": {
+            "$type": "PutGround-3656",
+            "Scale": 23,
+            "YMin": 90,
+            "YRange": 1,
+            "YFloor": 49,
+            "AreaPersistId": null,
+            "BlockPersistId": "BLK:0",
+            "CustomRectArea": {
+              "X0": 988,
+              "Z0": 1004,
+              "X1": 1033,
+              "Z1": 1063
+            }
+          },
+          "Enabled": true
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutGround-3656",
+            "Scale": 23,
+            "YMin": 80,
+            "YRange": 1,
+            "YFloor": 1,
+            "AreaPersistId": null,
+            "BlockPersistId": "BLK:3",
+            "CustomRectArea": {
+              "X0": 1002,
+              "Z0": 1004,
+              "X1": 986,
+              "Z1": 1025
+            }
+          },
+          "Enabled": true
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutGround-3656",
+            "Scale": 23,
+            "YMin": 82,
+            "YRange": 1,
+            "YFloor": 1,
+            "AreaPersistId": null,
+            "BlockPersistId": "BLK:3",
+            "CustomRectArea": {
+              "X0": 1002,
+              "Z0": 1026,
+              "X1": 912,
+              "Z1": 1041
+            }
+          },
+          "Enabled": true
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutGround-3656",
+            "Scale": 23,
+            "YMin": 83,
+            "YRange": 1,
+            "YFloor": 1,
+            "AreaPersistId": null,
+            "BlockPersistId": "BLK:3",
+            "CustomRectArea": {
+              "X0": 905,
+              "Z0": 977,
+              "X1": 912,
+              "Z1": 1034
+            }
+          },
+          "Enabled": true
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutHill-4481",
+            "Elevation": 86,
+            "HillDesigner": {
+              "$type": "CornerPusherHill-4527",
+              "MaxConsecutiveMisses": 11,
+              "OverhangAmount": -1
+            },
+            "AreaPersistId": "IMG:export\\base_border_S\\1.png",
+            "BlockPersistId": "BLK:241",
+            "LockedRandomSeed": "1938415830-2363702527-2899848172-3465741610-201423485-3957606132"
+          },
+          "Enabled": true
+        }
+      ],
+      "ExpandBedrock": true,
+      "RepairSeaEnabled": false,
+      "RepairSeaLevel": 31,
+      "RepairSeaType": 7
+    },
+    {
+      "ScriptName": "manual border S",
+      "ScriptNodes": null,
+      "ScriptNodes2": [
+        {
+          "ScriptNode": {
+            "$type": "PutGround-3656",
+            "Scale": 23,
+            "YMin": 82,
+            "YRange": 1,
+            "YFloor": 1,
+            "AreaPersistId": null,
+            "BlockPersistId": "BLK:14",
+            "CustomRectArea": {
+              "X0": 932,
+              "Z0": 1026,
+              "X1": 1006,
+              "Z1": 1040
+            }
+          },
+          "Enabled": true
+        },
+        {
+          "ScriptNode": {
+            "$type": "PutGround-3656",
+            "Scale": 23,
+            "YMin": 82,
+            "YRange": 1,
+            "YFloor": 1,
+            "AreaPersistId": null,
+            "BlockPersistId": "BLK:11",
+            "CustomRectArea": {
+              "X0": 986,
+              "Z0": 1004,
+              "X1": 1006,
+              "Z1": 1040
+            }
+          },
+          "Enabled": true
+        }
+      ],
+      "ExpandBedrock": false,
+      "RepairSeaEnabled": false,
+      "RepairSeaLevel": 31,
+      "RepairSeaType": 7
     }
   ],
-  "SelectedScriptIndex": 25,
+  "SelectedScriptIndex": 28,
   "ExtractedSnippets": [
     {
       "PersistentId": "1ae86710-89ea-402e-928a-4af552e0bf0d",

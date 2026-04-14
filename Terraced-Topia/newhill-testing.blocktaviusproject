@@ -1,0 +1,209 @@
+{
+  "ProfileVerificationHash": "SwsLltjL\u002B/NQCgJQGj9kgJhDXTrXlTXHz7cI/fgxuII=",
+  "SourceSlot": {
+    "SlotNumber": 3,
+    "SlotName": "Slot 3 (B02)"
+  },
+  "DestSlot": null,
+  "SourceStgdatFilename": "STGDAT16.BIN",
+  "ChunkExpansion": [
+    {
+      "OffsetX": 25,
+      "OffsetZ": 25
+    },
+    {
+      "OffsetX": 14,
+      "OffsetZ": 31
+    },
+    {
+      "OffsetX": 18,
+      "OffsetZ": 31
+    },
+    {
+      "OffsetX": 19,
+      "OffsetZ": 31
+    },
+    {
+      "OffsetX": 20,
+      "OffsetZ": 31
+    },
+    {
+      "OffsetX": 21,
+      "OffsetZ": 31
+    },
+    {
+      "OffsetX": 22,
+      "OffsetZ": 31
+    },
+    {
+      "OffsetX": 23,
+      "OffsetZ": 31
+    },
+    {
+      "OffsetX": 18,
+      "OffsetZ": 32
+    },
+    {
+      "OffsetX": 19,
+      "OffsetZ": 32
+    },
+    {
+      "OffsetX": 20,
+      "OffsetZ": 32
+    },
+    {
+      "OffsetX": 21,
+      "OffsetZ": 32
+    },
+    {
+      "OffsetX": 22,
+      "OffsetZ": 32
+    },
+    {
+      "OffsetX": 23,
+      "OffsetZ": 32
+    },
+    {
+      "OffsetX": 18,
+      "OffsetZ": 33
+    },
+    {
+      "OffsetX": 19,
+      "OffsetZ": 33
+    },
+    {
+      "OffsetX": 20,
+      "OffsetZ": 33
+    },
+    {
+      "OffsetX": 21,
+      "OffsetZ": 33
+    },
+    {
+      "OffsetX": 22,
+      "OffsetZ": 33
+    },
+    {
+      "OffsetX": 23,
+      "OffsetZ": 33
+    },
+    {
+      "OffsetX": 18,
+      "OffsetZ": 34
+    },
+    {
+      "OffsetX": 19,
+      "OffsetZ": 34
+    },
+    {
+      "OffsetX": 20,
+      "OffsetZ": 34
+    },
+    {
+      "OffsetX": 21,
+      "OffsetZ": 34
+    },
+    {
+      "OffsetX": 22,
+      "OffsetZ": 34
+    },
+    {
+      "OffsetX": 23,
+      "OffsetZ": 34
+    },
+    {
+      "OffsetX": 18,
+      "OffsetZ": 35
+    },
+    {
+      "OffsetX": 19,
+      "OffsetZ": 35
+    },
+    {
+      "OffsetX": 20,
+      "OffsetZ": 35
+    },
+    {
+      "OffsetX": 21,
+      "OffsetZ": 35
+    },
+    {
+      "OffsetX": 22,
+      "OffsetZ": 35
+    },
+    {
+      "OffsetX": 23,
+      "OffsetZ": 35
+    },
+    {
+      "OffsetX": 18,
+      "OffsetZ": 36
+    },
+    {
+      "OffsetX": 19,
+      "OffsetZ": 36
+    },
+    {
+      "OffsetX": 20,
+      "OffsetZ": 36
+    },
+    {
+      "OffsetX": 21,
+      "OffsetZ": 36
+    },
+    {
+      "OffsetX": 22,
+      "OffsetZ": 36
+    },
+    {
+      "OffsetX": 23,
+      "OffsetZ": 36
+    }
+  ],
+  "Notes": "",
+  "Images": [
+    {
+      "RelativePath": "export\\base_border_S\\1.png",
+      "IsVisible": true
+    }
+  ],
+  "MinimapVisible": true,
+  "ChunkGridVisible": true,
+  "Scripts": [
+    {
+      "ScriptName": "Main",
+      "ScriptNodes": null,
+      "ScriptNodes2": [
+        {
+          "ScriptNode": {
+            "$type": "PutHill-4481",
+            "Elevation": 45,
+            "HillDesigner": {
+              "$type": "CornerPusherHill-4527",
+              "MaxConsecutiveMisses": 11,
+              "OverhangAmount": 26
+            },
+            "AreaPersistId": "IMG:export\\base_border_S\\1.png",
+            "BlockPersistId": "BLK:3",
+            "LockedRandomSeed": null
+          },
+          "Enabled": true
+        }
+      ],
+      "ExpandBedrock": true,
+      "RepairSeaEnabled": false,
+      "RepairSeaLevel": 31,
+      "RepairSeaType": 7
+    },
+    {
+      "ScriptName": "Script 2",
+      "ScriptNodes": null,
+      "ScriptNodes2": [],
+      "ExpandBedrock": false,
+      "RepairSeaEnabled": false,
+      "RepairSeaLevel": 31,
+      "RepairSeaType": 7
+    }
+  ],
+  "SelectedScriptIndex": 0
+}
